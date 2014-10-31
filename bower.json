@@ -17,7 +17,7 @@
     "cardinal": "2.2.5"
   },
   "dependencies": {
-    "uikit": "~2.6.0",
+    "uikit": "~v2.6.0",
     "bootstrap": "~3.1.1",
     "jqtree": "~0.21.0",
     "jquery.cookie": "~1.4.1",
